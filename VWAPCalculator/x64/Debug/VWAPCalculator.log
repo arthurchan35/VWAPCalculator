@@ -1,0 +1,15 @@
+﻿Build started 7/15/2016 1:23:39 AM.
+     1>Project "D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\VWAPCalculator\VWAPCalculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\VWAPCalculator.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Parser.cpp
+         Parser.cpp
+       Link:
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Debug\VWAPCalculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Debug\VWAPCalculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Debug\VWAPCalculator.lib" /MACHINE:X64 x64\Debug\Parser.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\VWAPCalculator.obj
+         VWAPCalculator.vcxproj -> D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Debug\VWAPCalculator.exe
+     1>Done Building Project "D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\VWAPCalculator\VWAPCalculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01

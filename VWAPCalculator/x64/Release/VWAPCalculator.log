@@ -1,0 +1,21 @@
+﻿Build started 7/15/2016 1:56:13 AM.
+     1>Project "D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\VWAPCalculator\VWAPCalculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Release\VWAPCalculator.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Release\VWAPCalculator.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt Parser.cpp VWAPCalculator.cpp
+         Parser.cpp
+         VWAPCalculator.cpp
+       Link:
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Release\VWAPCalculator.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Release\VWAPCalculator.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Release\VWAPCalculator.lib" /MACHINE:X64 x64\Release\Parser.obj
+         x64\Release\stdafx.obj
+         x64\Release\VWAPCalculator.obj
+         Generating code
+         All 838 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         VWAPCalculator.vcxproj -> D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\x64\Release\VWAPCalculator.exe
+     1>Done Building Project "D:\Microsoft Visual Studio 14.0\Projects\VWAPCalculator\VWAPCalculator\VWAPCalculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.16
